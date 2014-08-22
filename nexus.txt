@@ -1,4 +1,6 @@
 Nexus
 =====
 Welcome to the Nexus! You see pure white light all around. The only tangible
-objects in sight are a large gray door, and a switch next to it.
+objects in sight are a large gray door, and a switch to the side of it. You
+can't tell if they're connected to anything, let alone what they are connected
+to.
